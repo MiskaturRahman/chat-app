@@ -47,6 +47,7 @@
     background-color: #fff;
     width: fit-content;
     border-radius: 10px;
+    margin-top: 25px;
 }
 
 .chat__reciever {
@@ -61,7 +62,7 @@
     font-size: xx-small;
 }
 
-.chat__time {
+.chat__timestamp {
     margin-left: 10px;
     font-size: xx-small;
 }
